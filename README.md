@@ -8,7 +8,7 @@
  
  🔭 I’m currently working on **myself**
  
- 🌱 I’m currently learning ** React Js, AWS**
+ 🌱 I’m currently learning ** React Js **
 
 💬 Ask me about **JavaScript... or anything [here](https://github.com/taniya-singh22)**
 
